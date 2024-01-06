@@ -7,4 +7,4 @@ Freetribe aims to provide a user-friendly API for connecting control input to au
 A preview of the is currently available to [sponsors](https://github.com/sponsors/bangcorrupt), 
 I hope to push to this public repo by the end of the month.
 
-Foe now, the [documentation](https://bangcorrupt.github.io/freetribe-docs/) is available and growing.
+For now, the [documentation](https://bangcorrupt.github.io/freetribe-docs/) is available and growing.
